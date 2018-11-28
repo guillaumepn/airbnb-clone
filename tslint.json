@@ -9,7 +9,9 @@
     "ordered-imports": false,
     "interface-name": false,
     "no-submodule-imports": false,
-    "no-duplicate-imports": false
+    "no-duplicate-imports": false,
+    "member-ordering": false,
+    "jsx-no-lambda": false
   },
   "rulesDirectory": []
 }

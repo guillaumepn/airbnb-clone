@@ -2,7 +2,6 @@ import * as React from 'react';
 import {Button, Form, Icon} from 'antd';
 import {FormikErrors, FormikProps, withFormik, Field, Form as FormikForm} from "formik";
 
-// @ts-ignore
 import {validUserSchema} from '@airbnb/common';
 import {InputField} from "../../shared/InputField";
 
